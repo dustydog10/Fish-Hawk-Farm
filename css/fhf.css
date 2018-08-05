@@ -1,0 +1,36 @@
+body {
+  padding-top: 5rem;
+}
+body#homepage {
+  background-image: url("../images/field.jpg");
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+img#fhf-thumb {
+    margin-right: 16px;
+    width: 52px;
+}
+main[role=main] {
+}
+body#about main h2 {
+    border-top: 1px solid;
+    margin-top: 40px;
+    padding-top: 10px;
+}
+body#homepage .container {
+    color: floralwhite;
+}
+body#homepage .container .lead {
+    color: #343a40!important;
+}
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+    color: #fff;
+    text-align: center;
+}
